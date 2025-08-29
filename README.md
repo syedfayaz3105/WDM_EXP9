@@ -26,5 +26,9 @@ for this purpose.
 
 
 ### Output:
+<img width="1699" height="948" alt="Screenshot 2025-08-29 110407" src="https://github.com/user-attachments/assets/e725adc2-c466-491e-b739-57d0408c2fe9" />
+
+<img width="1705" height="950" alt="Screenshot 2025-08-29 110427" src="https://github.com/user-attachments/assets/51ac1de8-3338-4865-bd22-f33c8a389866" />
 
 ### Result:
+Thus executed successfully
